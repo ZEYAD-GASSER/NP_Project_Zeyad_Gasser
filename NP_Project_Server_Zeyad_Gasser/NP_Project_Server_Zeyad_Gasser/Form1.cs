@@ -52,9 +52,6 @@ namespace NP_Project_Server_Zeyad_Gasser
             {
                 NetworkStream ns = client.GetStream();
 
-                // =========================
-                // 1) READ FILE SIZE (8 bytes)
-                // =========================
                 byte[] sizeBytes = new byte[8];
                 ReadExact(ns, sizeBytes, 8);
 
