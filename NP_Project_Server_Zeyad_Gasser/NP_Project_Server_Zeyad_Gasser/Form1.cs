@@ -110,7 +110,7 @@ namespace NP_Project_Server_Zeyad_Gasser
                 int read = ns.Read(buffer, totalRead, (int)(size - totalRead));
 
                 if (read == 0)
-                    throw new Exception("Client disconnected أثناء الإرسال");
+                    throw new Exception("Client disconnected");
 
                 totalRead += read;
             }
