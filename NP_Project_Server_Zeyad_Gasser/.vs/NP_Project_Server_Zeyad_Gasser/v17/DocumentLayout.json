@@ -1,0 +1,98 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\zeadg\\OneDrive\\Desktop\\OOP Tracker\\NP_Project_Server_Zeyad_Gasser\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4398D3A0-DA45-433A-9688-E35C4671368D}|NP_Project_Server_Zeyad_Gasser\\NP_Project_Server_Zeyad_Gasser.csproj|c:\\users\\zeadg\\onedrive\\desktop\\oop tracker\\np_project_server_zeyad_gasser\\np_project_server_zeyad_gasser\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4398D3A0-DA45-433A-9688-E35C4671368D}|NP_Project_Server_Zeyad_Gasser\\NP_Project_Server_Zeyad_Gasser.csproj|solutionrelative:np_project_server_zeyad_gasser\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4398D3A0-DA45-433A-9688-E35C4671368D}|NP_Project_Server_Zeyad_Gasser\\NP_Project_Server_Zeyad_Gasser.csproj|C:\\Users\\zeadg\\OneDrive\\Desktop\\OOP Tracker\\NP_Project_Server_Zeyad_Gasser\\np_project_server_zeyad_gasser\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4398D3A0-DA45-433A-9688-E35C4671368D}|NP_Project_Server_Zeyad_Gasser\\NP_Project_Server_Zeyad_Gasser.csproj|solutionrelative:np_project_server_zeyad_gasser\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4398D3A0-DA45-433A-9688-E35C4671368D}|NP_Project_Server_Zeyad_Gasser\\NP_Project_Server_Zeyad_Gasser.csproj|C:\\Users\\zeadg\\OneDrive\\Desktop\\OOP Tracker\\NP_Project_Server_Zeyad_Gasser\\np_project_server_zeyad_gasser\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4398D3A0-DA45-433A-9688-E35C4671368D}|NP_Project_Server_Zeyad_Gasser\\NP_Project_Server_Zeyad_Gasser.csproj|solutionrelative:np_project_server_zeyad_gasser\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 276,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            }
+          ]
+        },
+        {
+          "DockedHeight": 84,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\zeadg\\OneDrive\\Desktop\\OOP Tracker\\NP_Project_Server_Zeyad_Gasser\\NP_Project_Server_Zeyad_Gasser\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "NP_Project_Server_Zeyad_Gasser\\Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\zeadg\\OneDrive\\Desktop\\OOP Tracker\\NP_Project_Server_Zeyad_Gasser\\NP_Project_Server_Zeyad_Gasser\\Form1.Designer.cs",
+              "RelativeToolTip": "NP_Project_Server_Zeyad_Gasser\\Form1.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-19T13:12:23.705Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\zeadg\\OneDrive\\Desktop\\OOP Tracker\\NP_Project_Server_Zeyad_Gasser\\NP_Project_Server_Zeyad_Gasser\\Form1.cs",
+              "RelativeDocumentMoniker": "NP_Project_Server_Zeyad_Gasser\\Form1.cs",
+              "ToolTip": "C:\\Users\\zeadg\\OneDrive\\Desktop\\OOP Tracker\\NP_Project_Server_Zeyad_Gasser\\NP_Project_Server_Zeyad_Gasser\\Form1.cs",
+              "RelativeToolTip": "NP_Project_Server_Zeyad_Gasser\\Form1.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAGkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-19T12:29:08.015Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\zeadg\\OneDrive\\Desktop\\OOP Tracker\\NP_Project_Server_Zeyad_Gasser\\NP_Project_Server_Zeyad_Gasser\\Form1.cs",
+              "RelativeDocumentMoniker": "NP_Project_Server_Zeyad_Gasser\\Form1.cs",
+              "ToolTip": "C:\\Users\\zeadg\\OneDrive\\Desktop\\OOP Tracker\\NP_Project_Server_Zeyad_Gasser\\NP_Project_Server_Zeyad_Gasser\\Form1.cs [Design]",
+              "RelativeToolTip": "NP_Project_Server_Zeyad_Gasser\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-19T12:24:45.741Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

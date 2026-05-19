@@ -1,0 +1,10 @@
+C:\Users\zeadg\OneDrive\Desktop\OOP Tracker\NP_Project_Client_Zeyad_Gasser\NP_Project_Client_Zeyad_Gasser\bin\Debug\NP_Project_Client_Zeyad_Gasser.exe.config
+C:\Users\zeadg\OneDrive\Desktop\OOP Tracker\NP_Project_Client_Zeyad_Gasser\NP_Project_Client_Zeyad_Gasser\bin\Debug\NP_Project_Client_Zeyad_Gasser.exe
+C:\Users\zeadg\OneDrive\Desktop\OOP Tracker\NP_Project_Client_Zeyad_Gasser\NP_Project_Client_Zeyad_Gasser\bin\Debug\NP_Project_Client_Zeyad_Gasser.pdb
+C:\Users\zeadg\OneDrive\Desktop\OOP Tracker\NP_Project_Client_Zeyad_Gasser\NP_Project_Client_Zeyad_Gasser\obj\Debug\NP_Project_Client_Zeyad_Gasser.csproj.AssemblyReference.cache
+C:\Users\zeadg\OneDrive\Desktop\OOP Tracker\NP_Project_Client_Zeyad_Gasser\NP_Project_Client_Zeyad_Gasser\obj\Debug\NP_Project_Client_Zeyad_Gasser.Form1.resources
+C:\Users\zeadg\OneDrive\Desktop\OOP Tracker\NP_Project_Client_Zeyad_Gasser\NP_Project_Client_Zeyad_Gasser\obj\Debug\NP_Project_Client_Zeyad_Gasser.Properties.Resources.resources
+C:\Users\zeadg\OneDrive\Desktop\OOP Tracker\NP_Project_Client_Zeyad_Gasser\NP_Project_Client_Zeyad_Gasser\obj\Debug\NP_Project_Client_Zeyad_Gasser.csproj.GenerateResource.cache
+C:\Users\zeadg\OneDrive\Desktop\OOP Tracker\NP_Project_Client_Zeyad_Gasser\NP_Project_Client_Zeyad_Gasser\obj\Debug\NP_Project_Client_Zeyad_Gasser.csproj.CoreCompileInputs.cache
+C:\Users\zeadg\OneDrive\Desktop\OOP Tracker\NP_Project_Client_Zeyad_Gasser\NP_Project_Client_Zeyad_Gasser\obj\Debug\NP_Project_Client_Zeyad_Gasser.exe
+C:\Users\zeadg\OneDrive\Desktop\OOP Tracker\NP_Project_Client_Zeyad_Gasser\NP_Project_Client_Zeyad_Gasser\obj\Debug\NP_Project_Client_Zeyad_Gasser.pdb
